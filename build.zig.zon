@@ -1,0 +1,21 @@
+.{    
+    .name = "Decryption",
+    .version = "0.0.0",
+    
+    .dependencies = .{
+        // See `zig fetch --save <url>` for a command-line interface for adding dependencies.
+        //.example = .{
+        //    .name = "example",
+        //},
+    },
+    
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "src/encrypt_decrypt.zig",
+        // For example...
+        //"LICENSE",
+        "README.md",
+    },
+}
