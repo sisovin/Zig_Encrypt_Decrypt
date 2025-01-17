@@ -10,7 +10,7 @@
 
 # Password Encryption Tool
 
-### Author: [\Chieng Sisovin\](https://github.com/sisovin)
+### Author: [Chieng Sisovin](https://github.com/sisovin)
 
 ## Overview
 A secure password encryption/decryption tool built in Zig that implements AES-128 encryption in CBC mode. The tool validates passwords, encrypts them securely, and demonstrates the decryption process.
